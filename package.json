@@ -1,0 +1,11 @@
+{
+  "name": "playwright-ui-automation",
+  "version": "1.0.0",
+  "description": "UI Automation with Playwright for login/logout scenario",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.43.1"
+  }
+}
